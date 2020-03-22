@@ -1,5 +1,5 @@
 # Booth-s-Algorithms
-BootheMultiplication.py- It have the python code for the boothe multiplication adn divison algorithm.
+BootheMultiplication.py- It have the python code for the boothe multiplication and divison algorithm.
 BootheDivision.py- It have the python code for the boothe division algorithm.
 helperFuntions.py- It have the python code for the functions like:
                     binary_to_decimal(),
